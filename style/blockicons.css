@@ -27,6 +27,7 @@
 	width: 1.5em;
 }
 
+
 .block_news_items .header .title h2:before {
 	content: "\f0a1";
 }
@@ -41,7 +42,7 @@
 }
 
 .block_navigation .header .title h2 {
-	background-color: #7f8c8d;
+	background-color: #2038e2;
 	color: #fff;
 }
 
@@ -52,7 +53,7 @@
 
 .block_calendar_upcoming .header .title h2,
 .block_calendar_month .header .title h2 {
-	background-color: #3498db;
+	background-color: #e04e08;
 	color: #fff;
 }
 
@@ -141,7 +142,7 @@
 .block_participants .header .title h2,
 .block_people .header .title h2,
 .block_online_users .header .title h2 {
-	background-color: #9b59b6;
+	background-color: #2dd422;
 	color: #fff;
 }
 
@@ -176,7 +177,7 @@
 }
 
 .block_private_files .header .title h2 {
-	background-color: #3498db;
+	background-color: #e116e4;
 	color: #fff;
 }
 
@@ -212,7 +213,7 @@
 }
 
 .block_login .header .title h2 {
-	background-color: #7f8c8d;
+	background-color: #f52727;
 	color: #fff;
 }
 
@@ -248,7 +249,7 @@
 }
 
 .block_adminblock .header .title h2 {
-	background-color: #7f8c8d;
+	background-color: #48bec7;
 	color: #fff;
 }
 

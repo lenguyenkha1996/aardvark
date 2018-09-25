@@ -1440,14 +1440,14 @@ fieldset[disabled] .btn-link:focus {
 #page-footer {
 	border: 0;
 	box-shadow: 0 1px 10px rgba(0, 0, 0, 0.1) inset;
-	background-color: #c3d1d2;
-	color: #7f8c8d;
-	text-shadow: 1px 1px #ecf0f1;
+	background-color: #656565;
+	color: #f2feff;
+	text-shadow: 1px 1px #000000;
 }
 
 #page-footer a {
-	color: #7f8c8d;
-	text-shadow: 1px 1px #ecf0f1;
+	color: #cbcfd0;
+	text-shadow: 1px 1px #15363e;
 }
 
 #footer-left,
