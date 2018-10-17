@@ -1472,3 +1472,7 @@ fieldset[disabled] .btn-link:focus {
 .footerlinks a {
 	color: #7f8c8d;
 }
+
+.content .footer a {
+	font-size: 15px;
+}
